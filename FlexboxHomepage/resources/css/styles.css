@@ -1,0 +1,44 @@
+html {
+    font-size: 16px;
+}
+
+.name {
+    font-size:80px; 
+    text-align: center  
+}
+
+.desktop ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+nav li {
+    display: inline;
+    padding-left: 20px;
+   // margin: auto;
+    align-items: center;
+}
+
+nav a{
+    color: black;
+    font-size: 30px;
+}
+
+.banner{
+    background-image: url('../images/build-startup-strategy.jpg') ;
+    width: 12000px;
+    height: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //color: white;
+    
+}
+
+.banner h1, .banner h2 {
+    text-align: center;
+    background-color: white;
+}
+

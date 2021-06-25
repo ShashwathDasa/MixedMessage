@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+html{
+    background-color: black;
+}
+table,th,td{
+    border: 50px white;
+    text-align: center;
+    
+}
+thead {
+    font-weight: bold;
+    background-color: grey;
+}
+span{
+    color:pink;
+}
+h1{
+    text-align: center;
+}
